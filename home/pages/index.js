@@ -6,7 +6,7 @@ const Header = dynamic(import('../components/Header'))
 export default () => (
   <div>
     <Header />
-    <p>This is our homepage</p>
+    <p>CHANGE CHANGE CHANGE</p>
     <div>
       <a href="/blog">Blog</a>
     </div>
