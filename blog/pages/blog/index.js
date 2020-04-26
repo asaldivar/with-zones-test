@@ -7,7 +7,7 @@ export default () => (
       <li>
         <Link href="/blog/post/[id]" as="/blog/post/1">
           <h2>
-            <a>BLOG Post 1</a>
+            <a>TES TETST TESTSETSETS</a>
           </h2>
         </Link>
       </li>
