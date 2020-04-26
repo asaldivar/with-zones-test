@@ -6,7 +6,9 @@ export default () => (
     <ul>
       <li>
         <Link href="/blog/post/[id]" as="/blog/post/1">
-          <a>Post 1</a>
+          <h2>
+            <a>TES TETST TESTSETSETS</a>
+          </h2>
         </Link>
       </li>
       <li>
